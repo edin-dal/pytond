@@ -1,6 +1,6 @@
 # PyTond: Efficient Python Data Science on the Shoulders of Databases
 
-This is an implementation of **PyTond**, an approach to translate Python data science into efficient SQL code. The work has been presented in the 40th IEEE International Conference on Data Engineering (**ICDE'24**) for the first time. The code here is a experimental prototype that has differences (mostly improvements) over what is presented in the paper.
+This is an implementation of **PyTond**, an approach to translating Python data science into efficient SQL code. For the first time, the work has been presented at the 40th IEEE International Conference on Data Engineering (**ICDE'24**) ([Download Link](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a423/1YOtZb8zWuc)]. The code here is an experimental prototype that differs (mostly improves) from what is presented in the paper.
 
 ## Requirements
 The implementation is tested with the following software packages/versions:
